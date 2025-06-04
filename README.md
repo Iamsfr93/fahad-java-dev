@@ -1,7 +1,4 @@
-# fahad-java-dev
-
-
-# Hi, I'm Fahad Rasheed Syed👋
+Hi, I'm Fahad Rasheed Syed👋
 
 ### Java Backend Developer | Spring Boot | REST API | Microservices | AWS
 
