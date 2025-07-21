@@ -2,8 +2,8 @@ Hi, I'm Fahad Rasheed Syed👋
 
 ### Java Backend Developer | Spring Boot | REST API | Microservices | AWS
 
-🔹 4+ years of hands-on experience building scalable web applications
-🔹 Expert in Java 8, Spring Boot, Hibernate, Docker, and MySQL
+🔹 3+ years of hands-on experience building scalable web applications
+🔹 Expert in Java 8/11, Spring Boot, Hibernate, Docker, and MySQL
 🔹 Passionate about clean code, system design & backend performance
 
 ---
